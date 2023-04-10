@@ -1,0 +1,32 @@
+table {
+    width: 900px;
+    margin-left: 300px;
+    background-color: antiquewhite;
+    /*border-spacing: 10px;*/ 
+}
+
+th {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+table, th, td {
+    border: 3px solid #000;
+    border-collapse: collapse;
+}
+
+
+ th, td {
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+
+caption {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: burlywood;
+}
+
+
+
